@@ -1,4 +1,4 @@
-# Minishell [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/jlensing/minishell)](https://github.com/JaeSeoKim/badge42)
+# Minishell [![jlensing's 42 minishell Score](https://badge42.vercel.app/api/v2/cl1jwurq1001109l1q4s085aw/project/1943790)](https://github.com/JaeSeoKim/badge42)
 
 A minimalistic shell based on bash
 
